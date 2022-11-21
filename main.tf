@@ -1,5 +1,5 @@
 provider "azurerm" {
-  # Whilst version is optional, we /strongly recommend/ using it to pin the version of the Provider being used change
+  # Whilst version is optional, we /strongl2y recommend/ using it to pin the version of the Provider being used change
   #version = "=2.4.0" without version
 
   subscription_id = 00000000-2aa1-42f8-8726-6f8e1b32ab57
